@@ -1,0 +1,1 @@
+File serverconfig.properties must to be in the same directory as executable jar-file!
